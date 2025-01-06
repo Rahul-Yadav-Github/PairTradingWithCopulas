@@ -2,6 +2,8 @@
 
 This project uses various copula models to fit the historical data of two similar stocks. The stocks are selected from a pool of 50 based on Kendall's tau and distance approaches. The model predicts trading signals using conditional probabilities.
 ![image](https://github.com/user-attachments/assets/964d2a94-3b4c-41ee-8a04-940b394cc4f0)
+![image](https://github.com/user-attachments/assets/5ba94bfb-7b75-4f4a-bc1c-d24a8b0be96d)
+
 
 ![image](https://github.com/user-attachments/assets/cad8c173-81a1-483a-bb41-2f33dd2ef215)
 
