@@ -1,6 +1,8 @@
 # CopulaModelWithPython
 
 This project uses various copula models to fit the historical data of two similar stocks. The stocks are selected from a pool of 50 based on Kendall's tau and distance approaches. The model predicts trading signals using conditional probabilities.
+![image](https://github.com/user-attachments/assets/cad8c173-81a1-483a-bb41-2f33dd2ef215)
+
 
 ## Project Structure
 
